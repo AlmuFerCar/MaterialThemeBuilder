@@ -18,7 +18,7 @@
     <string name="app_name">Build my Material Theme</string>
     <string name="theme_name_hint">Cool Theme</string>
 
-    <string name="lorem_ipsum"> Modificación del cuerpo de texto con otro texto diferente que se está probando</string>
+    <string name="lorem_ipsum"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
 
     <!--Main-->
     <string name="tab_title_instructions">Instructions</string>
@@ -106,8 +106,8 @@
     <string name="text_appearance_h6_label">H6</string>
     <string name="text_appearance_subtitle_1_label">Subtitle 1</string>
     <string name="text_appearance_subtitle_2_label">Subtitle 2</string>
-    <string name="text_appearance_body_1_label">Cuerpo 1</string>
-    <string name="text_appearance_body_2_label">Cuerpo 2</string>
+    <string name="text_appearance_body_1_label">Body 1</string>
+    <string name="text_appearance_body_2_label">Body 2</string>
     <string name="text_appearance_button_label">Button</string>
     <string name="text_appearance_caption_label">Caption</string>
     <string name="text_appearance_overline_label">Overline</string>
