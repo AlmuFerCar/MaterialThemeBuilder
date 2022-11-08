@@ -43,7 +43,8 @@
       app:shapeStrokeColor="?attr/colorOnBackground"
       app:shapeFillColor="?attr/colorControlHighlight"
       android:layout_marginTop="@dimen/keyline_2"
-      android:layout_marginBottom="@dimen/keyline_2" />
+      android:layout_marginBottom="@dimen/keyline_2"
+        android:background="@color/purple_200"/>
 
     <io.material.materialthemebuilder.widget.ShapeAttributeView
       android:layout_width="match_parent"
@@ -54,7 +55,8 @@
       app:shapeStrokeColor="?attr/colorOnBackground"
       app:shapeFillColor="?attr/colorControlHighlight"
       android:layout_marginTop="@dimen/keyline_2"
-      android:layout_marginBottom="@dimen/keyline_2" />
+      android:layout_marginBottom="@dimen/keyline_2"
+        android:background="@color/purple_200"/>
 
     <io.material.materialthemebuilder.widget.ShapeAttributeView
       android:layout_width="match_parent"
@@ -65,6 +67,7 @@
       app:shapeStrokeColor="?attr/colorOnBackground"
       app:shapeFillColor="?attr/colorControlHighlight"
       android:layout_marginTop="@dimen/keyline_2"
-      android:layout_marginBottom="@dimen/keyline_2" />
+      android:layout_marginBottom="@dimen/keyline_2"
+        android:background="@color/purple_200"/>
 
 </LinearLayout>
