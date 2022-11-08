@@ -92,7 +92,8 @@
               android:firstBaselineToTopHeight="@dimen/keyline_5"
               android:text="@string/lorem_ipsum"
               android:textAppearance="?attr/textAppearanceBody2"
-              android:textColor="@color/material_on_surface_emphasis_medium"
+              android:textColor="@color/green_200"
+              android:background="@color/grey"
               app:layout_constraintEnd_toEndOf="parent"
               app:layout_constraintStart_toStartOf="parent"
               app:layout_constraintTop_toBottomOf="@id/card_title" />
