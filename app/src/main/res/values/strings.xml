@@ -18,7 +18,7 @@
     <string name="app_name">Build my Material Theme</string>
     <string name="theme_name_hint">Cool Theme</string>
 
-    <string name="texto_componente_cards"> Estoy escribiendo un nuevo texto de la new_branch que sale de la rama master para luego ver si se puede hacer un merge</string>
+    <string name="lorem_ipsum"> Estoy escribiendo un nuevo texto de la new_branch que sale de la rama master para luego ver si se puede hacer un merge</string>
 
     <!--Main-->
     <string name="tab_title_instructions">Instructions</string>

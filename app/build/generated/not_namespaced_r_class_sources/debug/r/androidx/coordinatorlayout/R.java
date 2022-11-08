@@ -37,10 +37,10 @@ public final class R {
     public static final class color {
         private color() {}
 
-        public static final int notification_action_color_filter = 0x7f0600b0;
-        public static final int notification_icon_bg_color = 0x7f0600b1;
-        public static final int ripple_material_light = 0x7f0600c2;
-        public static final int secondary_text_default_material_light = 0x7f0600c4;
+        public static final int notification_action_color_filter = 0x7f0600af;
+        public static final int notification_icon_bg_color = 0x7f0600b0;
+        public static final int ripple_material_light = 0x7f0600c1;
+        public static final int secondary_text_default_material_light = 0x7f0600c3;
     }
     public static final class dimen {
         private dimen() {}
@@ -186,14 +186,14 @@ public final class R {
     public static final class style {
         private style() {}
 
-        public static final int TextAppearance_Compat_Notification = 0x7f12015f;
-        public static final int TextAppearance_Compat_Notification_Info = 0x7f120160;
-        public static final int TextAppearance_Compat_Notification_Line2 = 0x7f120162;
-        public static final int TextAppearance_Compat_Notification_Time = 0x7f120165;
-        public static final int TextAppearance_Compat_Notification_Title = 0x7f120167;
-        public static final int Widget_Compat_NotificationActionContainer = 0x7f120259;
-        public static final int Widget_Compat_NotificationActionText = 0x7f12025a;
-        public static final int Widget_Support_CoordinatorLayout = 0x7f1202c7;
+        public static final int TextAppearance_Compat_Notification = 0x7f12015d;
+        public static final int TextAppearance_Compat_Notification_Info = 0x7f12015e;
+        public static final int TextAppearance_Compat_Notification_Line2 = 0x7f120160;
+        public static final int TextAppearance_Compat_Notification_Time = 0x7f120163;
+        public static final int TextAppearance_Compat_Notification_Title = 0x7f120165;
+        public static final int Widget_Compat_NotificationActionContainer = 0x7f120257;
+        public static final int Widget_Compat_NotificationActionText = 0x7f120258;
+        public static final int Widget_Support_CoordinatorLayout = 0x7f1202c5;
     }
     public static final class styleable {
         private styleable() {}
