@@ -158,7 +158,7 @@ sealed class ComponentViewHolder(val view: View) : RecyclerView.ViewHolder(view)
     private fun showDialog() {
       MaterialAlertDialogBuilder(view.context)
         .setTitle(R.string.text_headline_6)
-        .setMessage(R.string.lorem_ipsum)
+        .setMessage(R.string.texto_componente_cards)
         .setPositiveButton(R.string.text_button, null)
         .setNegativeButton(R.string.text_button, null)
         .show()

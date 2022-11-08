@@ -1,4 +1,4 @@
-#Thu Nov 03 12:45:03 CET 2022
+#Tue Nov 08 13:08:28 CET 2022
 base.1=C\:\\Users\\Almu\\AndroidStudioProjects\\MaterialWorld\\MaterialThemeBuilder\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
 path.1=classes.dex
 base.0=C\:\\Users\\Almu\\AndroidStudioProjects\\MaterialWorld\\MaterialThemeBuilder\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
