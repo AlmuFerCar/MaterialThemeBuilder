@@ -992,6 +992,7 @@ color foreground_material_light
 color green_200
 color green_500
 color grey
+color grey_light
 color highlighted_text_material_dark
 color highlighted_text_material_light
 color ic_launcher_background
@@ -3096,6 +3097,7 @@ style Widget_MaterialComponents_Tooltip
 style Widget_MyTheme_BottomSheet_Modal
 style Widget_MyTheme_NavigationView
 style Widget_Support_CoordinatorLayout
+style botones_cards
 styleable ActionBar background backgroundSplit backgroundStacked contentInsetEnd contentInsetEndWithActions contentInsetLeft contentInsetRight contentInsetStart contentInsetStartWithNavigation customNavigationLayout displayOptions divider elevation height hideOnContentScroll homeAsUpIndicator homeLayout icon indeterminateProgressStyle itemPadding logo navigationMode popupTheme progressBarPadding progressBarStyle subtitle subtitleTextStyle title titleTextStyle
 styleable ActionBarLayout android_layout_gravity
 styleable ActionMenuItemView android_minWidth
