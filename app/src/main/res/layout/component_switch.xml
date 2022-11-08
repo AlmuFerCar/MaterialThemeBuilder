@@ -32,7 +32,8 @@
       android:text="@string/switch_label_title"
       app:linkUrl="https://material.io/design/components/selection-controls.html#switches"
       app:layout_constraintStart_toStartOf="parent"
-      app:layout_constraintTop_toTopOf="parent" />
+      app:layout_constraintTop_toTopOf="parent"
+        />
 
     <com.google.android.material.switchmaterial.SwitchMaterial
       android:id="@+id/switch_one"

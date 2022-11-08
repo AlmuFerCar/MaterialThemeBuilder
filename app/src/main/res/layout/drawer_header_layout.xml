@@ -22,14 +22,15 @@
   android:padding="@dimen/keyline_4">
 
     <TextView
-      android:id="@+id/header_title"
-      android:layout_width="wrap_content"
-      android:layout_height="wrap_content"
-      android:text="@string/text_headline_6"
-      android:layout_marginTop="@dimen/keyline_2"
-      android:layout_marginBottom="@dimen/keyline_1"
-      android:textAppearance="?attr/textAppearanceHeadline6"
-      android:textColor="@color/material_on_surface_emphasis_high_type"/>
+        android:id="@+id/header_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/keyline_2"
+        android:layout_marginBottom="@dimen/keyline_1"
+        android:text="@string/text_headline_6"
+        android:textAppearance="?attr/textAppearanceHeadline6"
+        android:textColor="@color/material_on_surface_emphasis_high_type"
+        android:background="@color/green_200"/>
 
     <TextView
       android:id="@+id/header_subtitle"
