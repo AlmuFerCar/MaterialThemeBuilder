@@ -1,3 +1,13 @@
+## Creación de ramas
+ Rama principal (master) con cambios en el texto del componente cards [component_cards](https://github.com/AlmuFerCar/MaterialThemeBuilder/blob/master/app/src/main/res/layout/component_cards.xml)
+ Rama principal (master) con cambios en el color del fondo del componente fabs [component_fabs](https://github.com/AlmuFerCar/MaterialThemeBuilder/blob/master/app/src/main/res/layout/component_fabs.xml)
+![captura_rama_principal](img/capturaRamaPrincipal.png)
+
+
+
+
+
+
 ## Build a Material Theme
 Build a Material Theme lets you create your own Material theme by customizing values for color, typography, and shape. See how these values appear when applied to Material Components and discover how to implement your custom theme in your own projects. Build a Material Theme is also available for the web as a remixable project on [Glitch](https://glitch.com/~material-theme-builder).
 
