@@ -1,6 +1,8 @@
 ## Creación de ramas
- Rama modificaciones y new_branch que proceden de la rama master
- Rama other que procede de la rama modificaciones
+ * Rama modificaciones y new_branch que proceden de la rama master
+
+
+ * Rama other que procede de la rama modificaciones
 
 ## Modificaciones RAMA MASTER
  * Texto del componente cards [component_cards_master](https://github.com/AlmuFerCar/MaterialThemeBuilder/blob/master/app/src/main/res/layout/component_cards.xml)
